@@ -9,7 +9,7 @@
 - Clone the repository
 
 ```
-git clone  <git lab template url> <project_name>
+git clone https://github.com/ResidentAlien90/cat-card-application.git
 ```
 
 - Install dependencies
